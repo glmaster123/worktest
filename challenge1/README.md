@@ -7,4 +7,4 @@ The first problem I see is that at a certain point, turning left will result in 
 The second problem I see is that the total piston length has a maximum value so another mechanical limit will have to be applied in order to prevent it from breaking, assuming it is not a load bearing component. The limits described thus far would make sense in practical applications anyway. This would be translated to software using if statements and throwing an error so the user knows the reading near these limits may be unreliable.
 
 ## Solving The Challenge
-I was unable to solve the problem and translate my calculatios into a software solution.
+I was unable to solve the problem and translate my calculations into a software solution.
