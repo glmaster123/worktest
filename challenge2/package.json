@@ -1,0 +1,15 @@
+{
+  "name": "challenge2",
+  "version": "1.0.0",
+  "description": "smoothing gps data",
+  "main": "smooth.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gabe",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "kalmanjs": "^1.1.0"
+  }
+}
