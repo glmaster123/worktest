@@ -3,4 +3,5 @@ My plan is to use a Kalman filter to reduce noise in the recorded GPS data. I al
 
 ## Running the node script
 `npm install`
+
 `node smooth.js`
